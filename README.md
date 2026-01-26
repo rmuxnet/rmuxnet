@@ -33,5 +33,3 @@
 <div align="left">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/rmuxnet/rmuxnet/output/github-contribution-grid-snake.svg" />
 </div>
-
-###
